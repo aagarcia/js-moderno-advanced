@@ -27,6 +27,8 @@ In main.js has the reference for each example. Comment and uncomment the lines f
 
 Concepts such as environment variables in Vite, callback, promise, promise race, async, async/wait, async/wait with promise.all, for await, function generator, function generator with async.
 
+In **.env.template** change to **.env**. Inside the file are 2 variables **VITE_API_KEY** and **VITE_BASE_URL**, in the first variable put the word you want, and the second variable put whatever URL you want. This is only seeing the use environment variables with Vite. 
+
 # Clone repo
 
     git clone https://github.com/aagarcia/js-moderno-advanced.git
